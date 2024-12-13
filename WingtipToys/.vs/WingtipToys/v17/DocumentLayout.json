@@ -1,0 +1,721 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|d:\\visualstudio\\wingtiptoys\\wingtiptoys\\productlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:productlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\productlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:productlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|d:\\visualstudio\\wingtiptoys\\wingtiptoys\\logic\\roleactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:logic\\roleactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\account\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:account\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\logic\\shoppingcartactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:logic\\shoppingcartactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\account\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:account\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\checkout\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:checkout\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\checkout\\checkouterror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:checkout\\checkouterror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\checkout\\checkoutcancel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:checkout\\checkoutcancel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\checkout\\checkoutcomplete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:checkout\\checkoutcomplete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\checkout\\checkoutreview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:checkout\\checkoutreview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\checkout\\checkoutstart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:checkout\\checkoutstart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\models\\productdatabaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:models\\productdatabaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\admin\\adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:admin\\adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\errorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:errorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\errorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:errorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\logic\\exceptionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:logic\\exceptionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\logic\\addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:logic\\addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\admin\\adminpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:admin\\adminpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|D:\\VisualStudio\\WingtipToys\\WingtipToys\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B330571-3B1E-4DA8-BC3A-0980F1B01F81}|WingtipToys.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductList.aspx.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ProductList.aspx.cs",
+              "RelativeDocumentMoniker": "ProductList.aspx.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ProductList.aspx.cs",
+              "RelativeToolTip": "ProductList.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:38:16.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CheckoutReview.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutReview.aspx",
+              "RelativeDocumentMoniker": "Checkout\\CheckoutReview.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutReview.aspx",
+              "RelativeToolTip": "Checkout\\CheckoutReview.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T01:40:47.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CheckoutStart.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutStart.aspx",
+              "RelativeDocumentMoniker": "Checkout\\CheckoutStart.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutStart.aspx",
+              "RelativeToolTip": "Checkout\\CheckoutStart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T01:40:08.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:35:53.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:34:39.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Account\\Register.aspx",
+              "RelativeDocumentMoniker": "Account\\Register.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Account\\Register.aspx",
+              "RelativeToolTip": "Account\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T00:30:02.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T00:23:21.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\About.aspx",
+              "RelativeDocumentMoniker": "About.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\About.aspx",
+              "RelativeToolTip": "About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T23:41:48.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T23:31:53.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "Contact.aspx.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Contact.aspx.cs",
+              "RelativeToolTip": "Contact.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:31:46.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Account\\Login.aspx",
+              "RelativeDocumentMoniker": "Account\\Login.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Account\\Login.aspx",
+              "RelativeToolTip": "Account\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T23:16:13.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleActions.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Logic\\RoleActions.cs",
+              "RelativeDocumentMoniker": "Logic\\RoleActions.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Logic\\RoleActions.cs",
+              "RelativeToolTip": "Logic\\RoleActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:45:20.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckoutComplete.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutComplete.aspx",
+              "RelativeDocumentMoniker": "Checkout\\CheckoutComplete.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutComplete.aspx",
+              "RelativeToolTip": "Checkout\\CheckoutComplete.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T01:41:09.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CheckoutCancel.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutCancel.aspx",
+              "RelativeDocumentMoniker": "Checkout\\CheckoutCancel.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutCancel.aspx",
+              "RelativeToolTip": "Checkout\\CheckoutCancel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T01:41:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckoutError.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutError.aspx",
+              "RelativeDocumentMoniker": "Checkout\\CheckoutError.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\CheckoutError.aspx",
+              "RelativeToolTip": "Checkout\\CheckoutError.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T01:41:49.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\Web.config",
+              "RelativeDocumentMoniker": "Checkout\\Web.config",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Checkout\\Web.config",
+              "RelativeToolTip": "Checkout\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-21T01:42:41.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:43:35.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Account\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Account\\Register.aspx.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Account\\Register.aspx.cs",
+              "RelativeToolTip": "Account\\Register.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:51:59.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Account\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Account\\Login.aspx.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Account\\Login.aspx.cs",
+              "RelativeToolTip": "Account\\Login.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:24:19.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:58:08.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorPage.aspx.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ErrorPage.aspx.cs",
+              "RelativeDocumentMoniker": "ErrorPage.aspx.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ErrorPage.aspx.cs",
+              "RelativeToolTip": "ErrorPage.aspx.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:52:25.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorPage.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ErrorPage.aspx",
+              "RelativeDocumentMoniker": "ErrorPage.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ErrorPage.aspx",
+              "RelativeToolTip": "ErrorPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T21:49:36.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExceptionUtility.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Logic\\ExceptionUtility.cs",
+              "RelativeDocumentMoniker": "Logic\\ExceptionUtility.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Logic\\ExceptionUtility.cs",
+              "RelativeToolTip": "Logic\\ExceptionUtility.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:48:08.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShoppingCart.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ShoppingCart.aspx",
+              "RelativeDocumentMoniker": "ShoppingCart.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ShoppingCart.aspx",
+              "RelativeToolTip": "ShoppingCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T20:31:13.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingCartActions.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Logic\\ShoppingCartActions.cs",
+              "RelativeDocumentMoniker": "Logic\\ShoppingCartActions.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Logic\\ShoppingCartActions.cs",
+              "RelativeToolTip": "Logic\\ShoppingCartActions.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAUwOMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:11:56.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDetails.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ProductDetails.aspx",
+              "RelativeDocumentMoniker": "ProductDetails.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ProductDetails.aspx",
+              "RelativeToolTip": "ProductDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T19:59:44.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-14T01:56:20.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4vz0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:44:20.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductList.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ProductList.aspx",
+              "RelativeDocumentMoniker": "ProductList.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ProductList.aspx",
+              "RelativeToolTip": "ProductList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-14T01:46:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T17:41:13.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShoppingCart.aspx.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ShoppingCart.aspx.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.aspx.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\ShoppingCart.aspx.cs",
+              "RelativeToolTip": "ShoppingCart.aspx.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:35:23.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminPage.aspx",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Admin\\AdminPage.aspx",
+              "RelativeDocumentMoniker": "Admin\\AdminPage.aspx",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Admin\\AdminPage.aspx",
+              "RelativeToolTip": "Admin\\AdminPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-20T20:54:59.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Admin\\Web.config",
+              "RelativeDocumentMoniker": "Admin\\Web.config",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Admin\\Web.config",
+              "RelativeToolTip": "Admin\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T20:57:06.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminPage.aspx.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Admin\\AdminPage.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\AdminPage.aspx.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Admin\\AdminPage.aspx.cs",
+              "RelativeToolTip": "Admin\\AdminPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:09:10.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddProducts.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Logic\\AddProducts.cs",
+              "RelativeDocumentMoniker": "Logic\\AddProducts.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Logic\\AddProducts.cs",
+              "RelativeToolTip": "Logic\\AddProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:11:05.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Site.Master.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Site.Master.cs",
+              "RelativeToolTip": "Site.Master.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:54:23.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:08:39.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductDatabaseInitializer.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\ProductDatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDatabaseInitializer.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\ProductDatabaseInitializer.cs",
+              "RelativeToolTip": "Models\\ProductDatabaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:41:17.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Models\\ProductContext.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\ProductContext.cs",
+              "RelativeToolTip": "Models\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:40:27.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:36:59.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\VisualStudio\\WingtipToys\\WingtipToys\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:36:03.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
